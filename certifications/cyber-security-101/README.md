@@ -43,4 +43,4 @@ This learning path helped me build a practical foundation in cybersecurity and u
 
 ## Certificate
 
-Certificate of completion available in this directory.
+[View Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QFHVNUPD0R.pdf)
