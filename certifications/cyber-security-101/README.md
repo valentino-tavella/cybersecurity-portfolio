@@ -1,19 +1,26 @@
 # Cyber Security 101
 
-## Overview
+## 🎓 Certification Overview
 
-Cyber Security 101 is a hands-on cybersecurity learning path completed through TryHackMe.
+**Cyber Security 101** is a hands-on cybersecurity learning path completed through TryHackMe.
 
-The learning path covers fundamental concepts and practical skills across different areas of cybersecurity.
+The learning path provides a practical introduction to fundamental cybersecurity concepts, combining theory with hands-on exercises in realistic environments.
 
-## Platform
+---
 
-- **Platform:** TryHackMe
-- **Status:** Completed
-- **Completion date:** September 14, 2026
-- **Course duration:** 45 hours 23 minutes
+## 📋 Details
 
-## Topics Covered
+| | |
+|---|---|
+| **Platform** | TryHackMe |
+| **Type** | Learning Path |
+| **Status** | ✅ Completed |
+| **Completion Date** | September 14, 2026 |
+| **Duration** | 45 hours 23 minutes |
+
+---
+
+## 🧠 Topics Covered
 
 - Networking
 - Linux
@@ -25,22 +32,33 @@ The learning path covers fundamental concepts and practical skills across differ
 - Vulnerability Assessment
 - Privilege Escalation
 
-## Skills Developed
+---
 
-During this learning path, I practiced:
+## 🛠️ Skills Practiced
+
+Throughout the learning path, I practiced:
 
 - Network and service enumeration
 - Linux command-line usage
 - Web application security concepts
-- Basic vulnerability analysis
+- Vulnerability analysis
 - Security tools and techniques
+- Basic offensive security techniques
 - Defensive security concepts
-- Practical problem solving in cybersecurity
+- Practical problem solving
 
-## Key Takeaways
+---
 
-This learning path helped me build a practical foundation in cybersecurity and understand how different security concepts connect together in real-world scenarios.
+## 📚 Key Takeaways
 
-## Certificate
+This learning path helped me build a stronger practical foundation in cybersecurity.
 
-[View Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QFHVNUPD0R.pdf)
+One of the main takeaways was understanding how different areas of cybersecurity connect together, from network reconnaissance and system analysis to exploitation and defensive techniques.
+
+---
+
+## 📜 Certificate
+
+[View Certificate (PDF)](./cyber-security-101-certificate.pdf)
+
+[Verify Certificate on TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QFHVNUPD0R.pdf)
