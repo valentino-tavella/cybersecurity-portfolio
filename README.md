@@ -77,9 +77,6 @@ Some of the tools I am currently learning and using:
 
 ---
 
-
-Y vamos a reemplazar **solamente esa parte** por:
-
 ```markdown
 ## 📂 Repository Structure
 
