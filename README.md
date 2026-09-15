@@ -77,11 +77,17 @@ Some of the tools I am currently learning and using:
 
 ---
 
+
+Y vamos a reemplazar **solamente esa parte** por:
+
+```markdown
 ## 📂 Repository Structure
 
-```text
-certifications/   → Certification records
-writeups/         → Lab and CTF writeups
-tools/            → Notes about cybersecurity tools
-scripts/          → Scripts and automation
-notes/            → Technical notes and concepts
+| Section | Description |
+|---|---|
+| [🎓 Certifications](./certifications) | Cybersecurity certifications and learning paths |
+| [📚 Courses](./courses) | Courses and additional training |
+| [🧪 Writeups](./writeups) | Lab and CTF writeups |
+| [🛠️ Tools](./tools) | Notes and practical examples of cybersecurity tools |
+| [💻 Scripts](./scripts) | Scripts and automation |
+| [📖 Notes](./notes) | Technical notes and cybersecurity concepts |
